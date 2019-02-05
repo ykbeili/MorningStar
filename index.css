@@ -1,0 +1,17 @@
+.nav-item{
+    color: white;
+}
+.nav-item {
+    padding-right: 10px;
+}
+#NavBar{
+    padding-bottom: 12.5px;
+}
+#home{
+    background-image: url('https://c1.staticflickr.com/9/8616/15973075977_722d16c6c8_b.jpg');
+    width: 100%;
+    height: 70%;
+}
+body {
+    background-color:#6d757c
+}
