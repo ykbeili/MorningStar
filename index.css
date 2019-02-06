@@ -1,18 +1,18 @@
-.nav-item{
+.nav-item {
     color: white;
 }
 .nav-item {
     padding-right: 10px;
 }
-#NavBar{
+#NavBar {
     padding-bottom: 12.5px;
 }
-#home{
+#home {
     background-image: url('https://c1.staticflickr.com/9/8616/15973075977_722d16c6c8_b.jpg');
     width: 100%;
     height: 70%;
 }
-#aboutus{
+#aboutus {
     text-align:center;
     padding-top:10px;
     background-color:#6d757c;
@@ -22,10 +22,10 @@
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
 }
-p{
+p {
     margin-bottom: 0rem !important;
 }
-#services{
+#services {
     text-align:center;
     padding-top:10px;
     background-color:#6d757c;
@@ -67,7 +67,7 @@ img {
 #headerourstaff {
     padding-bottom: 20px;
 }
-#gallery{
+#gallery {
     text-align: center;
     padding-top:10px;
     background-color:#6d757c;
@@ -76,19 +76,19 @@ img {
     color:white;
     font-style: italic;
 }
-#imgsgallery{
+#imgsgallery {
     padding-bottom: 10px;
     width: 300px;
     height: 300px;
     border-radius: 0px !important;
 }
-#galleryHeader{
+#galleryHeader {
     padding-bottom: 15px;
 }
-#headerFooter{
-    color: black;
+#headerFooter {
+    color: white;
 }
-#NavbarHeader{
+#NavbarHeader {
     font-size: 1.1rem;
     color:White;
     font-style: italic;
