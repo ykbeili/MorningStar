@@ -85,3 +85,14 @@ img {
 #galleryHeader{
     padding-bottom: 15px;
 }
+#headerFooter{
+    color: black;
+}
+#NavbarHeader{
+    font-size: 1.1rem;
+    color:White;
+    font-style: italic;
+}
+h2 {
+    font-weight: bold !important;
+}
