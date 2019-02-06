@@ -1,5 +1,5 @@
 .nav-item {
-    color: white;
+    color: grey;
 }
 .nav-item {
     padding-right: 10px;
@@ -15,10 +15,10 @@
 #aboutus {
     text-align:center;
     padding-top:10px;
-    background-color:#6d757c;
+    background-color:#f8f9fa;
     width: 100%;
     height: 25%;
-    color:white;
+    color:grey;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
 }
@@ -28,19 +28,19 @@ p {
 #services {
     text-align:center;
     padding-top:10px;
-    background-color:#6d757c;
+    background-color:#f8f9fa;
     width: 100%;
     height: 30%;
-    color:white;
+    color:grey;
     font-style: italic;
 }
 #contactus {
     text-align: center;
     padding-top:10px;
-    background-color:#6d757c;
+    background-color:#f8f9fa;
     width: 100%;
     height: 30%;
-    color:white;
+    color:grey;
     font-style: italic;
 }
 img {
@@ -52,10 +52,10 @@ img {
 #ourstaff {
     text-align: center;
     padding-top:10px;
-    background-color:#6d757c;
+    background-color:#f8f9fa;
     width: 100%;
     height: 80%;
-    color:white;
+    color:grey;
     font-style: italic;
 }
 #staff {
@@ -70,10 +70,10 @@ img {
 #gallery {
     text-align: center;
     padding-top:10px;
-    background-color:#6d757c;
+    background-color:#f8f9fa;
     width: 100%;
     height: 100%;
-    color:white;
+    color:grey;
     font-style: italic;
 }
 #imgsgallery {
@@ -86,13 +86,18 @@ img {
     padding-bottom: 15px;
 }
 #headerFooter {
-    color: white;
+    color: grey;
 }
 #NavbarHeader {
     font-size: 1.1rem;
-    color:White;
+    color:grey;
     font-style: italic;
 }
 h2 {
     font-weight: bold !important;
+}
+#logo{
+    width: 250px;
+    height: 65px;
+    margin-bottom: 0px !important;
 }
