@@ -67,3 +67,21 @@ img {
 #headerourstaff {
     padding-bottom: 20px;
 }
+#gallery{
+    text-align: center;
+    padding-top:10px;
+    background-color:#6d757c;
+    width: 100%;
+    height: 100%;
+    color:white;
+    font-style: italic;
+}
+#imgsgallery{
+    padding-bottom: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 0px !important;
+}
+#galleryHeader{
+    padding-bottom: 15px;
+}
