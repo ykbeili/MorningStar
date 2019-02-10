@@ -24,6 +24,9 @@
 }
 p {
     margin-bottom: 0rem !important;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 #services {
     text-align:center;
@@ -96,7 +99,7 @@ img {
 h2 {
     font-weight: bold !important;
 }
-#logo{
+#logo {
     width: 250px;
     height: 65px;
     margin-bottom: 0px !important;
