@@ -98,6 +98,7 @@ img {
 }
 h2 {
     font-weight: bold !important;
+    padding-bottom: 20px;
 }
 #logo {
     width: 250px;
